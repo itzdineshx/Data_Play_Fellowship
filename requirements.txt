@@ -4,8 +4,9 @@ matplotlib
 seaborn
 scikit-learn
 statsmodels
-prophet
 gradio
 xgboost
 joblib
-tqdm
+nltk
+wordcloud
+plotly
