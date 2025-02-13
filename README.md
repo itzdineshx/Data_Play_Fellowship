@@ -198,7 +198,7 @@ This project is licensed under the [MIT License](LICENSE). Please see the LICENS
 
 
 DINESH S  
-[my linkedin profile](https://www.linkedin.com/in/dinesh-x/) | [github link](https://github.com/itzdineshx/)
+[my linkedin profile](https://www.linkedin.com/in/dinesh-x/) | [github link](https://github.com/itzdineshx/) | [Mail ID](personalaccdinesh@gmail.com)
 ---
 
 *Happy coding and happy data exploring!* 🚀
