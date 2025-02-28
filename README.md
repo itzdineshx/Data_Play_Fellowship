@@ -1,8 +1,9 @@
 # Dataplay Data Science Fellowship Projects Repository
 
-
 Welcome to my repository showcasing the projects and assignments I completed during the **Dataplay Data Science Fellowship**. In this repository, you'll find detailed work on data visualization, text analysis, and machine learning—from crafting word clouds and text analytics to developing predictive models and interactive web apps.
 
+
+![completion Certificate](Dataplay_fellowship_completion_crt.png)
 
 ## Table of Contents
 
@@ -13,6 +14,7 @@ Welcome to my repository showcasing the projects and assignments I completed dur
   - [1. DataPlay Reviews WordCloud](#1-dataplay-reviews-wordcloud)
   - [2. Gender Prediction](#2-gender-prediction)
   - [3. Titanic Dataset](#3-titanic-dataset)
+  - [4. Placement Dashboard](#4-placement-dashboard)
 - [Technologies & Tools](#technologies--tools)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -33,7 +35,6 @@ This repository documents my journey through the **Dataplay Data Science Fellows
 All datasets used in these projects are available here:  
 [DataPlay Data Science Case Studies](https://github.com/DataPlayOrg/Data-Science-Case-Studies)
 
-
 ---
 
 ## Projects
@@ -47,7 +48,7 @@ This project focuses on analyzing textual reviews and visualizing word frequenci
 
 - **Level 1: Excel Implementation**
   - **Objective:** Use Excel functions and Pivot Tables to compute word frequency counts while removing stopwords.
-   ![TF-IDF Visualization](Assignment_1/data/assets/img/sheet4.jpeg)
+  - ![TF-IDF Visualization](Assignment_1/data/assets/img/sheet4.jpeg)
 
 - **Level 2: TF-IDF Implementation**
   - **Objective:** Apply TF-IDF (Term Frequency-Inverse Document Frequency) to weigh the importance of words.
@@ -55,10 +56,9 @@ This project focuses on analyzing textual reviews and visualizing word frequenci
   - **Image Placeholder:**  
     ![TF-IDF Visualization](Assignment_1/data/assets/img/plots/top-20-tfidf.png)
 
-
 - **Level 3: Python Implementation**
   - **Objective:** Replicate all the above levels using Python to facilitate automated analysis and programmatic visualizations.
-    ![Python Implementation](Assignment_1/data/results/review_wordcloud.png)
+  - ![Python Implementation](Assignment_1/data/results/review_wordcloud.png)
 
 ---
 
@@ -70,7 +70,7 @@ In this project, I built a predictive model to determine gender from a given dat
 #### Workflow:
 
 1. **Stratified Data Split**
-   - **Task:** Partition the dataset into training and validation sets using stratified sampling. 
+   - **Task:** Partition the dataset into training and validation sets using stratified sampling.
 
 2. **Pivot Analysis on Training Data**
    - **Task:** Conduct pivot table analysis to explore the distribution and relationships in the training set.
@@ -83,14 +83,14 @@ In this project, I built a predictive model to determine gender from a given dat
 
 5. **Enhancement with Naïve Bayes**
    - **Task:** Improve the model by implementing a Naïve Bayes classifier.
-
-   ![Model Accuracy](Assignment_2/data/assets/img/plots/models_f1.png)
+   - ![Model Accuracy](Assignment_2/data/assets/img/plots/models_f1.png)
 
 6. **Interactive Gradio App**
    - **Task:** Develop a Gradio-based web app to demonstrate real-time gender prediction.
-    ![Gradio App](Assignment_2/data/assets/img/app_interface.png)
+   - ![Gradio App](Assignment_2/data/assets/img/app_interface.png)
 
-    Try app: [Link](https://huggingface.co/spaces/DINESH-X/Gender-Prediction-by-names)
+   Try app: [Link](https://huggingface.co/spaces/DINESH-X/Gender-Prediction-by-names)
+
 ---
 
 ### 3. Titanic Dataset
@@ -116,10 +116,37 @@ This project involves a comprehensive analysis of the Titanic dataset to predict
 
 ---
 
+### 4. Placement Dashboard
+
+**Overview:**  
+For the Placement Dashboard project, I began by performing exploratory data analysis (EDA) on the placement dataset. I then processed and combined data from various sources and created a comprehensive dashboard using Excel. After refining the data visualization and insights in Excel, I advanced the project by developing an interactive dashboard using the Polymer framework. This approach allowed me to enhance interactivity and design, offering a dynamic way to explore key placement metrics.
+
+#### Workflow:
+
+- **Data Processing & EDA in Excel:**
+  - Conducted thorough exploratory data analysis on the placement dataset.
+  - Cleaned and combined data from multiple sources.
+  - Built an initial dashboard in Excel to visualize key metrics such as total students, placement percentage, average CTC, and company-wise placements.
+  
+  - ![Dashboard using excel](Assignment_4/assets/img/Dashboard_with_excel.jpeg)
+
+
+- **Interactive Dashboard using Polymer:**
+  - Transitioned to Polymer to create a more interactive and responsive dashboard.
+  - Integrated modern web technologies (HTML, CSS, JavaScript) with Polymer components to enhance user experience.
+  - Focused on dynamic visualizations and responsive design for better data exploration.
+  - ![Dashboard 1](Assignment_4/assets/img/Dataplay_dashboard1.png)
+  - ![Dashboard 2](Assignment_4/assets/img/Dataplay_dashboard2.png)
+
+  - [Dashboard 1 Link](https://v3.polymersearch.com/b/67c22854d3f9910008e1b06d)
+  - [Dashboard 2 Link](https://v3.polymersearch.com/b/67c23b6ed3f9910008e1bed4)
+
+---
+
 ## Technologies & Tools
 
-- **Languages:** Python, SQL
-- **Data Analysis & Visualization:** Excel, Power BI, Pandas, Matplotlib, Seaborn
+- **Languages:** Python
+- **Data Analysis & Visualization:** Excel, Polymer, Pandas, Matplotlib, Seaborn
 - **Machine Learning:** Scikit-Learn, XGBoost, Naïve Bayes
 - **Interactive Apps:** Gradio
 - **Version Control:** Git, GitHub
@@ -192,13 +219,23 @@ This project is licensed under the [MIT License](LICENSE). Please see the LICENS
 - **Mentors & Community:** For their continuous guidance, feedback, and support throughout this journey.
 
 ![Data Play](dataplay_logo.jpeg)
+
 ---
 
 ## Contact
 
+**DINESH S**  
+<h3>Connect with me:</h3>
+<a href="https://www.linkedin.com/in/dinesh-x/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:32px;">
+</a>
+<a href="https://github.com/itzdineshx/Iris-flower-classification" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width:32px;">
+</a>
+<a href="mailto:personalaccdinesh@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" style="width:32px;">
+</a>
 
-DINESH S  
-[my linkedin profile](https://www.linkedin.com/in/dinesh-x/) | [github link](https://github.com/itzdineshx/) | [Mail ID](personalaccdinesh@gmail.com)
 ---
 
 *Happy coding and happy data exploring!* 🚀
